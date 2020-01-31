@@ -1,0 +1,3 @@
+/home/yonas/.gazebo/movement_plugin/build/CMakeFiles/rebuild_cache.dir
+/home/yonas/.gazebo/movement_plugin/build/CMakeFiles/model_push.dir
+/home/yonas/.gazebo/movement_plugin/build/CMakeFiles/edit_cache.dir

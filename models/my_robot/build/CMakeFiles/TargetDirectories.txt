@@ -1,0 +1,3 @@
+/home/yonas/.gazebo/models/my_robot/build/CMakeFiles/rebuild_cache.dir
+/home/yonas/.gazebo/models/my_robot/build/CMakeFiles/model_push.dir
+/home/yonas/.gazebo/models/my_robot/build/CMakeFiles/edit_cache.dir
